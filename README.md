@@ -2,4 +2,4 @@
 
 https://dm7blog.wordpress.com/2011/10/26/delphide-grafik-cizimi-ve-uygulamalari/ yazısında bulunan 
 
-Polygon prosedürü uygulaması kodudur.
+Delphi Polygon prosedürü uygulaması kodudur.
